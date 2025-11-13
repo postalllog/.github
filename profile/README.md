@@ -30,10 +30,3 @@ gh repo create meu-projeto --template postalllog/template-nome --private
 # Ou usar diretamente no GitHub
 # Clique em "Use this template" em qualquer repositório template
 ```
-
-### 🤝 **Para Colaboradores:**
-
-1. **Fork** o repositório desejado
-2. **Clone** seu fork localmente
-3. **Desenvolva** seguindo nossos padrões
-4. **Abra um PR** com suas melhorias
