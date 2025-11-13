@@ -19,16 +19,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![Postall Log's GitHub Stats](https://github-readme-stats.vercel.app/api?username=postalllog&show_icons=true&theme=dark&count_private=true)
-
-</div>
-
----
-
 ## 🎯 **Como Começar**
 
 ### 🔧 **Para Desenvolvedores:**
@@ -47,14 +37,3 @@ gh repo create meu-projeto --template postalllog/template-nome --private
 2. **Clone** seu fork localmente
 3. **Desenvolva** seguindo nossos padrões
 4. **Abra um PR** com suas melhorias
-
----
-
-## 🌟 **Nossos Projetos em Destaque**
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=postalllog&repo=lambda-template&theme=dark)](https://github.com/postalllog/lambda-template)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=postalllog&repo=fe-template&theme=dark)](https://github.com/postalllog/fe-template)
-
-</div>
