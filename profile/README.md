@@ -1,34 +1,64 @@
 <div align="center">
 
-# 🚀 **Postall Log** 
+# 🚀 **Postall Log**
 ### *Desafiando o tempo o tempo todo!*
 
-## 📦 **Templates/Repositórios Disponíveis**
+</div>
 
-> 🎉 **Acelere o desenvolvimento** com nossos templates pré-configurados!
+## 📦 **Catálogo de Soluções**
 
-| 🏷️ Template | 📝 Descrição | 🚀 Usar Template |
+> 🎯 **Repositórios oficiais da Postall Log** para acelerar o desenvolvimento de aplicações, microsserviços e infraestrutura.
+
+Este catálogo reúne:
+- 🧩 **Templates de projeto** prontos para uso
+- 🏗️ **Repositórios base de infraestrutura**
+- 📐 **Padrões arquiteturais adotados pela empresa**
+
+---
+
+## 🧩 **Templates de Desenvolvimento**
+
+> Utilize estes templates para **criar novos projetos** seguindo os padrões oficiais da Postall Log.
+
+| 🏷️ Nome | 📝 Descrição | 🚀 Criar Projeto |
 |:---|:---|:---:|
-| **Lambda Go** | Microserviço serverless em Go Lang | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-4CAF50?style=for-the-badge)](https://github.com/postalllog/lambda-template/generate) |
-| **React + Vite** | Frontend moderno com Design System | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-61DAFB?style=for-the-badge)](https://github.com/postalllog/fe-template/generate) |
-| **Lambda C#** | Microserviço serverless em C# | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-9C27B0?style=for-the-badge)](https://github.com/postalllog/lambda-template-csharp/generate) |
-| **API Gateway (Não PROD)** | Gateway de APIs para roteamento, autenticação e versionamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-nonprod) |
+| **Lambda Go** | Microserviço serverless em Go Lang, com CI/CD, testes e boas práticas | [![Usar Template](https://img.shields.io/badge/🚀%20Usar%20Template-4CAF50?style=for-the-badge)](https://github.com/postalllog/lambda-template/generate) |
+| **React + Vite** | Frontend moderno com Design System, Vite e arquitetura escalável | [![Usar Template](https://img.shields.io/badge/🚀%20Usar%20Template-61DAFB?style=for-the-badge)](https://github.com/postalllog/fe-template/generate) |
+| **Lambda C#** | Microserviço serverless em C# (.NET) com estrutura pronta para produção | [![Usar Template](https://img.shields.io/badge/🚀%20Usar%20Template-9C27B0?style=for-the-badge)](https://github.com/postalllog/lambda-template-csharp/generate) |
 
+---
 
-<br>
+## 🏗️ **Infraestrutura e Repositórios Base**
 
-> ✨ **Todos os templates incluem:** Testes automatizados, CI/CD, Docker, documentação completa e boas práticas de segurança.
+> Repositórios utilizados como **fundação da plataforma**, não destinados à geração de novos projetos.
+
+| 🏷️ Nome | 📝 Descrição | 🔗 Acesso |
+|:---|:---|:---:|
+| **API Gateway (Não PROD)** | Gateway de APIs para roteamento, autenticação, versionamento e políticas de acesso | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-nonprod) |
+
+---
+
+## ✨ **O que você encontra nos nossos projetos**
+
+### 🚀 Entrega
+- Pipelines de CI/CD prontos
+- Estratégias de deploy padronizadas
+
+### 🐳 Infra & Runtime
+- Configurações alinhadas com ambientes cloud
+
+### 🔐 Segurança
+- Boas práticas de segurança
+- Separação clara entre ambientes
 
 ---
 
 ## 🎯 **Como Começar**
 
-### 🔧 **Para Desenvolvedores:**
+### 🔧 Criando um novo projeto a partir de um template
 
+#### Usando GitHub CLI
 ```bash
-# Criar novo projeto usando GitHub CLI
-gh repo create meu-projeto --template postalllog/template-nome --private
-
-# Ou usar diretamente no GitHub
-# Clique em "Use this template" em qualquer repositório template
-```
+gh repo create meu-projeto \
+  --template postalllog/lambda-template \
+  --private
