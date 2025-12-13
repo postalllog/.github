@@ -3,7 +3,7 @@
 # 🚀 **Postall Log** 
 ### *Desafiando o tempo o tempo todo!*
 
-## 📦 **Templates Disponíveis**
+## 📦 **Templates/Repositórios Disponíveis**
 
 > 🎉 **Acelere o desenvolvimento** com nossos templates pré-configurados!
 
