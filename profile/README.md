@@ -38,21 +38,6 @@ Este catálogo reúne:
 
 ---
 
-## ✨ **O que você encontra nos nossos projetos**
-
-### 🚀 Entrega
-- Pipelines de CI/CD prontos
-- Estratégias de deploy padronizadas
-
-### 🐳 Infra & Runtime
-- Configurações alinhadas com ambientes cloud
-
-### 🔐 Segurança
-- Boas práticas de segurança
-- Separação clara entre ambientes
-
----
-
 ## 🎯 **Como Começar**
 
 ### 🔧 Criando um novo projeto a partir de um template
