@@ -12,6 +12,8 @@
 | **Lambda Go** | Microserviço serverless em Go Lang | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-4CAF50?style=for-the-badge)](https://github.com/postalllog/lambda-template/generate) |
 | **React + Vite** | Frontend moderno com Design System | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-61DAFB?style=for-the-badge)](https://github.com/postalllog/fe-template/generate) |
 | **Lambda C#** | Microserviço serverless em C# | [![Template](https://img.shields.io/badge/🚀%20Usar%20Template-9C27B0?style=for-the-badge)](https://github.com/postalllog/lambda-template-csharp/generate) |
+| **API Gateway (Não PROD)** | Gateway de APIs para roteamento, autenticação e versionamento | [![Repositório](https://img.shields.io/badge/🚀%20Usar%20Template-9C27B0?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-nonprod) |
+
 
 <br>
 
