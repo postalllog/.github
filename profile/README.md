@@ -81,13 +81,13 @@ Este catálogo reúne:
 
 ---
 
-## 📱 **GESTOR**
+## **GESTOR**
 
 > Aplicação Gestor Legado**.
 
 | 🏷️ Nome | 📝 Descrição | 🔗 Acesso |
 |:---|:---|:---:|
-| **Postall Web Forms ** | Aplicação C# Web Forms | [![Ver Repositório](https://img.shields.io/badge/📱%20Ver%20Repositório-086a50?style=for-the-badge)](https://github.com/postalllog/gestor-wf) |
+| **Postall Web Forms** | Aplicação C# Web Forms | [![Ver Repositório](https://img.shields.io/badge/📱%20Ver%20Repositório-086a50?style=for-the-badge)](https://github.com/postalllog/gestor-wf) |
 
 ---
 
