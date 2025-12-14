@@ -57,6 +57,27 @@ Este catálogo reúne:
 | **Gestor2 SQS** | Provisionamento de filas SQS | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-sqs) |
 | **Gestor2 Step Functions** | Orquestração de fluxos com Step Functions | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-stepfunctions) |
 
+---
+
+## 🎨 **Design System**
+
+> Repositórios responsáveis por **padronizar identidade visual, componentes e UX** dos produtos Postall Log.
+
+| 🏷️ Nome | 📝 Descrição | 🔗 Acesso |
+|:---|:---|:---:|
+| **Design System Web** | Design system para aplicações Web (UI, tokens, componentes e padrões) | [![Ver Repositório](https://img.shields.io/badge/🎨%20Ver%20Repositório-795548?style=for-the-badge)](https://github.com/postalllog/design-system-postalllog) |
+| **Design System Mobile** | Design system para aplicações Mobile | [![Ver Repositório](https://img.shields.io/badge/🎨%20Ver%20Repositório-795548?style=for-the-badge)](https://github.com/postalllog/design-system-postall-log-app) |
+
+---
+
+## 📱 **Mobile**
+
+> Aplicações mobile oficiais da Postall Log, focadas em **performance, escalabilidade e experiência do usuário**.
+
+| 🏷️ Nome | 📝 Descrição | 🔗 Acesso |
+|:---|:---|:---:|
+| **Postall Mobile (React Native)** | Aplicativo mobile desenvolvido em React Native | [![Ver Repositório](https://img.shields.io/badge/📱%20Ver%20Repositório-03A9F4?style=for-the-badge)](https://github.com/postalllog/PostallMobile-RN) |
+| **Postall Mobile V2** | Aplicação mobile oficial da Postall Log | [![Ver Repositório](https://img.shields.io/badge/📱%20Ver%20Repositório-03A9F4?style=for-the-badge)](https://github.com/postalllog/app-postalllog) |
 
 ---
 
