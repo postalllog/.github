@@ -36,6 +36,7 @@ Este catálogo reúne:
 |:---|:---|:---:|
 | **API Gateway (Não PROD)** | Gateway de APIs para roteamento, autenticação, versionamento e políticas de acesso | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-nonprod) |
 | **API Gateway (PROD)** | Gateway de APIs para roteamento, autenticação, versionamento e políticas de acesso | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-prod) |
+| **API Gateway LEGADO Fabrica** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/apigateway) |
 
 ---
 
