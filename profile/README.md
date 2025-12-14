@@ -36,7 +36,9 @@ Este catálogo reúne:
 |:---|:---|:---:|
 | **API Gateway (Não PROD)** | Gateway de APIs para roteamento, autenticação, versionamento e políticas de acesso | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-nonprod) |
 | **API Gateway (PROD)** | Gateway de APIs para roteamento, autenticação, versionamento e políticas de acesso | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-apigtw-prod) |
-| **API Gateway LEGADO Fabrica** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/apigateway) |
+| **API Gateway Fábrica (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/apigateway) |
+| **API Gateway V2 (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-apigtw) |
+| **API Gateway Homologador (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/homologador-apigtw) |
 
 ---
 
