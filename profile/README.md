@@ -28,7 +28,7 @@ Este catálogo reúne:
 
 ---
 
-## 🏗️ **Infraestrutura e Repositórios Base**
+## 🏗️ **Infraestrutura API Gateway**
 
 > Repositórios utilizados como **fundação da plataforma**, não destinados à geração de novos projetos.
 
@@ -39,6 +39,21 @@ Este catálogo reúne:
 | **API Gateway Fábrica (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/apigateway) |
 | **API Gateway V2 (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-apigtw) |
 | **API Gateway Homologador (LEGADO)** | Gateway de APIs para roteamento | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/homologador-apigtw) |
+
+---
+
+## 🏗️ **Infraestrutura API Gateway**
+
+> Repositórios utilizados como **fundação da plataforma**, não destinados à geração de novos projetos.
+
+| 🏷️ Nome | 📝 Descrição | 🔗 Acesso |
+|:---|:---|:---:|
+| **Infra Modules** | Módulos Terraform reutilizáveis | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-modules) |
+| **Gestor2 VPC** | Provisionamento de VPC | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-vpc) |
+| **Infra S3** | Provisionamento de recursos S3 | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-s3) |
+| **Infra Cloud Front** | Provisionamento de recursos Cloud Front | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-cloud-front) |
+| **Infra Event Bridge** | Provisionamento de recursos de Event Bridge | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/infra-event-bridge) |
+
 
 ---
 
