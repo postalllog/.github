@@ -56,6 +56,7 @@ Este catálogo reúne:
 | **Gestor2 DynamoDB** | Provisionamento de tabelas DynamoDB | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-dynamo) |
 | **Gestor2 SQS** | Provisionamento de filas SQS | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-sqs) |
 | **Gestor2 Step Functions** | Orquestração de fluxos com Step Functions | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-stepfunctions) |
+| **Gestor2 Cognito** | Autenticação | [![Ver Repositório](https://img.shields.io/badge/📦%20Ver%20Repositório-607D8B?style=for-the-badge)](https://github.com/postalllog/Gestor2-cognito) |
 
 ---
 
